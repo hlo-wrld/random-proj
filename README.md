@@ -1,4 +1,3 @@
-# Skybug-Tasks
 This repo contains the code of the following:
 
 a) Movie Genre Classification
